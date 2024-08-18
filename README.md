@@ -107,6 +107,7 @@ Here are some ideas for further enhancing this project:
 ## Resources
 
 - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
+- [git documentation](https://www.git-scm.com/book/en/v2)
 
 ## License
 
