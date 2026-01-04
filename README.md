@@ -1,7 +1,3 @@
-Sure! Here's a README.md file draft for your GitHub project:
-
----
-
 # Git-Clone (Minimal Git Implementation)
 
 This project is a simple, minimalistic implementation of a subset of Git's core commands in Java. It simulates basic git operations such as initializing a repository, creating blobs, trees, commits, and simulating some essential Git functionalities like hashing objects, writing trees, and more.
@@ -107,7 +103,6 @@ Here are some ideas for further enhancing this project:
 ## Resources
 
 - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
-- [git documentation](https://www.git-scm.com/book/en/v2)
 
 ## License
 
