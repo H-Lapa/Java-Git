@@ -2,6 +2,8 @@
 
 This project is an implementation of a subset of Git's core commands in Java. It simulates basic git operations such as initializing a repository, creating blobs, trees, commits, and simulating some essential Git functionalities like hashing objects, writing trees, and more.
 
+**Based on the [CodeCrafters "Build Your Own Git" Challenge](https://codecrafters.io/challenges/git)** - This implementation was created as part of learning Git internals through hands-on practice.
+
 ## Features Implemented
 
 - **init**: Initializes a Git repository by creating the necessary `.git` directory and structure (e.g., objects, refs).
